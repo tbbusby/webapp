@@ -1,0 +1,14 @@
+  body {
+    background-color: white !important;
+    /* overflow: visible !important; */
+ }
+
+ #root {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+
+ #zmmtg-root {
+    display: none;
+ }
